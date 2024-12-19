@@ -1,16 +1,24 @@
-# task
+# Android Movies Application
 
-A new Flutter project.
+This is a Flutter Application to manage a task list. You can add, delete and complete an added task
 
-## Getting Started
+<img src='./assets/screen1.png' width=30%> <img src='./assets/screen2.png' width=30%>
+<img src='./assets/screen2.png' width=30%> <img src='./assets/screen4.png' width=30%>
+<img src='./assets/screen3.png' width=30%> <img src='./assets/screen6.png' width=30%>
 
-This project is a starting point for a Flutter application.
+## Installation
+Clone this repository 
+```bash
+git clone https://github.com/ajidres/TaskFlutter.git
+```
 
-A few resources to get you started if this is your first Flutter project:
+## IDE
+Import the cloned repo to your preference IDE
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Generating debug APK
+In a terminal, locate in the project folder and execute:
+1. flutter build apk
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Maintainers
+This project is mantained by:
+* [Andres Jimenez](https://github.com/ajidre)
