@@ -21,4 +21,4 @@ In a terminal, locate in the project folder and execute:
 
 ## Maintainers
 This project is mantained by:
-* [Andres Jimenez](https://github.com/ajidre)
+* [Andres Jimenez](https://github.com/ajidres)
