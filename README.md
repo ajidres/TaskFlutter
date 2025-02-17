@@ -1,4 +1,4 @@
-# Android Movies Application
+# Android Task Application
 
 This is a Flutter Application to manage a task list. You can add, delete and complete an added task
 
